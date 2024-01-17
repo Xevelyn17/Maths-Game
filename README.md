@@ -3,4 +3,6 @@ This is a maths game in which system will generate two random numbers between 1 
 
 ![image](https://github.com/Xevelyn17/Maths-Game/assets/156883894/9fa6ebce-1972-4a1a-aae8-6636cc67f10d)
 
+The site is live at - https://xevelyn17.github.io/Maths-Game/
+
 
